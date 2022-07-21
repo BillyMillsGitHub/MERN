@@ -1,3 +1,4 @@
+Access mongo through your command line by typing - mongo
 use document_practice;
 //NEXT EXERCISE\\
 {
